@@ -34,4 +34,4 @@ node app.js www.github.com file.txt 200 302
 
 ## Note
 For a python implementation of this problem's solution (a more robust and faster solution because of multi-threading), head over to my repo :
-[Python Webpath Bruteforcer](https://github.com/Nikzy7/cloudsek-hackathon-python-webpath-bruteforcer)
+[Python Webpath Bruteforcer](https://github.com/Nikzy7/python-webpath-bruteforcerr)
