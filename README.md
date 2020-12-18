@@ -23,6 +23,7 @@ Success status codes: [200, 302]
 
 ## Usage:
 ```
+npm install node-fetch
 node app.js [url] [word file] [status code]
 ```
 
